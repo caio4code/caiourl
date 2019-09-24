@@ -1,2 +1,2 @@
-# clurl
-Clurl is a URL shortening service and a link management platform.
+# Cluri
+Cluri is a URL shortening service and a link management platform.
